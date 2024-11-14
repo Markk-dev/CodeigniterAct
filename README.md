@@ -1,6 +1,6 @@
 1. Open VSCODE and access the folder htdocs
 
-Run git init and
+2. Run git init and
 git clone https://github.com/Markk-dev/CodeigniterAct.git
 on your terminal
 
